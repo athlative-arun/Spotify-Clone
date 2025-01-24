@@ -71,7 +71,7 @@ const playlistsDataLibrary = [
 {
     title: "Mudhal nee muduvam nee",
     artist: "shankar mahadevan",
-    cover: "image/Mudhal-nee-mudivum-nee.jpg",
+    cover: "image/mudhal-nee-mudivum-nee.jpg",
     songFile: "song/Mudhal-Nee-Mudivum-Nee-Title-Track-MassTamilan.io.mp3"
 },
 {
